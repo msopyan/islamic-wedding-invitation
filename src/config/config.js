@@ -3,15 +3,15 @@
 const config = {
   // Meta Information
   meta: {
-    title: "Fulan & Fulana Wedding",
+    title: "D & F Wedding",
     description: "We are getting married and would love for you to be a part of our celebration.",
     ogImage: "/images/og-image.jpg", // OpenGraph image for social media
     favicon: "/images/favicon.ico",
   },
 
   couple: {
-    groomName: "Fulan",
-    brideName: "Fulana",
+    groomName: "D",
+    brideName: "F",
   },
 
   // Event Details
@@ -63,13 +63,13 @@ const config = {
     {
       bank: 'Bank Central Asia',
       accountNumber: '1234567890',
-      accountName: 'FULAN',
+      accountName: 'D',
       logo: '/path/to/bca-logo.png'
     },
     {
       bank: 'Bank Mandiri',
       accountNumber: '0987654321',
-      accountName: 'FULANA',
+      accountName: 'F',
       logo: '/path/to/mandiri-logo.png'
     }
   ],
