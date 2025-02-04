@@ -16,10 +16,10 @@ const config = {
 
   // Event Details
   event: {
-    date: "2024-12-24",
+    date: "2025-07-06",
     time: "16:22",
     timezone: "WIB",
-    dateTime: "2025-12-24T16:22:47Z", // ISO 8601 format
+    dateTime: "2025-07-06T16:22:47Z", // ISO 8601 format
     name: "Grand Ballroom, Hotel Majesty",
     address: "Jl. Example Street No. 123, City Name",
     time: "16:16 - 17:30 WIB",
@@ -32,7 +32,7 @@ const config = {
 
   eventDetails: [{
     title: "Akad Nikah",
-    date: "2024-12-24",
+    date: "2024-07-06",
     startTime: "16:16",
     endTime: "17:30",
     timeZone: "Asia/Jakarta",
@@ -40,7 +40,7 @@ const config = {
     description: "We invite you to join us in celebrating our wedding ceremony."
   }, {
     title: "Resepsi Nikah",
-    date: "2024-12-24",
+    date: "2024-07-06",
     startTime: "16:16",
     endTime: "17:30",
     timeZone: "Asia/Jakarta",
