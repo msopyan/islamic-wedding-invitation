@@ -20,7 +20,7 @@ const config = {
     time: "09:00",
     timezone: "WIB",
     dateTime: "2025-07-06T16:22:47Z", // ISO 8601 format
-    name: "Grand Ballroom, Hotel Majesty",
+    name: "Graha Yadika",
     address: "Jl. Example Street No. 123, City Name",
     time: "09:00 - 14:00 WIB",
     phone: "+62 123 4567 890",
@@ -32,19 +32,19 @@ const config = {
 
   eventDetails: [{
     title: "Akad Nikah",
-    date: "2024-07-06",
+    date: "2025-07-06",
     startTime: "09:0",
     endTime: "10:00",
     timeZone: "Asia/Jakarta",
-    location: "Grand Ballroom, Hotel Majesty",
+    location: "Graha Yadika",
     description: "We invite you to join us in celebrating our wedding ceremony."
   }, {
     title: "Resepsi Nikah",
-    date: "2024-07-06",
+    date: "2025-07-06",
     startTime: "11:00",
     endTime: "14:00",
     timeZone: "Asia/Jakarta",
-    location: "Grand Ballroom, Hotel Majesty",
+    location: "Graha Yadika",
     description: "We invite you to join us in celebrating our wedding ceremony."
   }],
 
