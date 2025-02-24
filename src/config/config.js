@@ -24,8 +24,8 @@ const config = {
     address: "Jl. Example Street No. 123, City Name",
     time: "09:00 - 14:00 WIB",
     phone: "+62 123 4567 890",
-    maps_url: "https://maps.google.com/?q=YourVenueLocation",
-    maps_embed: "https://www.google.com/maps/embed?pb=your-map-embed-url",
+    maps_url: "https://maps.app.goo.gl/XYW6sypYyP7QsNkp8",
+    maps_embed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.3033128841253!2d106.70484657499037!3d-6.223678693764379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fa1db5298b8f%3A0x72ace077fb5ca954!2sGraha%20Yadika!5e0!3m2!1sid!2sid!4v1740398382642!5m2!1sid!2sid%22%20width=%22600%22%20height=%22450%22%20style=%22border:0;%22%20allowfullscreen=%22%22%20loading=%22lazy%22%20referrerpolicy=%22no-referrer-when-downgrade",
     latitude: -6.2088, // Replace with actual coordinates
     longitude: 106.8456 // Replace with actual coordinates
   },
