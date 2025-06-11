@@ -10,8 +10,8 @@ const config = {
   },
 
   couple: {
-    groomName: "D",
-    brideName: "F",
+    groomName: "Desy Purwati Rahayu",
+    brideName: "Muhammad Faqih Sopyan",
   },
 
   // Event Details
@@ -62,15 +62,9 @@ const config = {
   bankAccounts: [
     {
       bank: 'Bank Central Asia',
-      accountNumber: '1234567890',
-      accountName: 'D',
+      accountNumber: '2880275626',
+      accountName: 'Muhammad Faqih Sopyan',
       logo: '/path/to/bca-logo.png'
-    },
-    {
-      bank: 'Bank Mandiri',
-      accountNumber: '0987654321',
-      accountName: 'F',
-      logo: '/path/to/mandiri-logo.png'
     }
   ],
   qris: {
